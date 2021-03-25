@@ -1,0 +1,194 @@
+[
+    {
+        "addressLine1" : "Westfield Shopping Centre",
+        "addressLine2" : "Ariel Way",
+        "town" :  "Shepherd’s Bush",
+        "county" :  "London",
+        "postcode" :  "W12 7GF",
+        "businessUnit" : "UK"
+    },
+    {
+        "addressLine1" : "Bluewater",
+        "addressLine2" : "Bluewater Park Way",
+        "town" :  "Dartford",
+        "county" :  "Kent",
+        "postcode" :  "DA9 9ST",
+        "businessUnit" : "UK"
+    },
+    {
+        "addressLine1" : "Intu Metrocentre",
+        "addressLine2" : "",
+        "town" :  "Gateshead",
+        "county" :  "Tyne and Wear",
+        "postcode" :  "NE11 9YG",
+        "businessUnit" : "UK"
+    },
+    {
+        "addressLine1" : "Liverpool One",
+        "addressLine2" : "5 Wall St",
+        "town" :  "Liverpool",
+        "county" :  "Merseyside",
+        "postcode" :  "L1 8JQ",
+        "businessUnit" : "UK"
+    },
+    {
+        "addressLine1" : "Stratford Shopping Centre",
+        "addressLine2" : "Montfichet Rd",
+        "town" :  "Stratford",
+        "county" :  "London",
+        "postcode" :  "E15 1NG",
+        "businessUnit" : "UK"
+    },
+    {
+        "addressLine1" : "The Bull Ring",
+        "addressLine2" : "Moor Street",
+        "town" :  "Birmingham",
+        "county" :  "West Midlands",
+        "postcode" :  "B5 4BU",
+        "businessUnit" : "UK"
+    },
+    {
+        "addressLine1" : "Meadowhall",
+        "addressLine2" : "Meadowhall Way",
+        "town" :  "Sheffield",
+        "county" :  "South Yorkshire",
+        "postcode" :  "S9 1EA",
+        "businessUnit" : "UK"
+    },
+    {
+        "addressLine1" : "Cabot Circus",
+        "addressLine2" : "25 Glass House Ln",
+        "town" :  "Bristol",
+        "county" :  "Bristol",
+        "postcode" :  "BS1 3BX",
+        "businessUnit" : "UK"
+    },
+    {
+        "addressLine1" : "Telford Shopping Centre",
+        "addressLine2" : "Woodhouse Central",
+        "town" :  "Telford",
+        "county" :  "Shropshire",
+        "postcode" :  "TF3 4BX",
+        "businessUnit" : "UK"
+    },
+    {
+        "addressLine1" : "Galerie - Wiener Platz",
+        "addressLine2" : "Wiener Platz Lv.1",
+        "town" :  "Cologne",
+        "county" :  "North Rhine-Westphalia",
+        "postcode" :  "51065",
+        "businessUnit" : "GERMANY"
+    },
+    {
+        "addressLine1" : "Marktkauf-Center",
+        "addressLine2" : "Seeveplatz 1",
+        "town" :  "Hamburg-Bergedorf",
+        "county" :  "Hamburg",
+        "postcode" :  "21073",
+        "businessUnit" : "GERMANY"
+    },
+    {
+        "addressLine1" : "Schwarzwald City",
+        "addressLine2" : "Schiffstraße 5-9",
+        "town" :  "Freiburg",
+        "county" :  "Baden-Württemberg",
+        "postcode" :  "79098",
+        "businessUnit" : "GERMANY"
+    },
+    {
+        "addressLine1" : "Krohnstieg Center",
+        "addressLine2" : "Krohnstieg 41-43",
+        "town" :  "Hamburg",
+        "county" :  "Hamburg",
+        "postcode" :  "22415",
+        "businessUnit" : "GERMANY"
+    },
+    {
+        "addressLine1" : "Alexa Berlin",
+        "addressLine2" : "Grunerstraße 20",
+        "town" :  "Berlin",
+        "county" :  "Berlin",
+        "postcode" :  "10179",
+        "businessUnit" : "GERMANY"
+    },
+    {
+        "addressLine1" : "Alt-Chemnitz-Center",
+        "addressLine2" : "Annaberger Str. 315",
+        "town" :  "Chemnitz",
+        "county" :  "Saxony",
+        "postcode" :  "09125",
+        "businessUnit" : "GERMANY"
+    },
+    {
+        "addressLine1" : "Habaneras Shopping Centre",
+        "addressLine2" : "Av. Rosa Mazón Valero, 7",
+        "town" :  "Torrevieja",
+        "county" :  "Alicante",
+        "postcode" :  "03184",
+        "businessUnit" : "SPAIN"
+    },
+    {
+        "addressLine1" : "Puerta Europa Shopping Center",
+        "addressLine2" : "Autovía del Mediterráneo, A-7",
+        "town" :  "Algeciras",
+        "county" :  "Cádiz",
+        "postcode" :  "11203",
+        "businessUnit" : "SPAIN"
+    },
+    {
+        "addressLine1" : "Maremagnum",
+        "addressLine2" : "Moll d'Espanya, 5",
+        "town" :  "Barcelona",
+        "county" :  "Barcelona",
+        "postcode" :  "08039",
+        "businessUnit" : "SPAIN"
+    },
+    {
+        "addressLine1" : "Centre Comercial El Triangle",
+        "addressLine2" : "Plaça de Catalunya",
+        "town" :  "Barcelona",
+        "county" :  "Barcelona",
+        "postcode" :  "08002",
+        "businessUnit" : "SPAIN"
+    },
+    {
+        "addressLine1" : "Banus Marina Mall",
+        "addressLine2" : "Calle Ramón Areces",
+        "town" :  "Marbella",
+        "county" :  "Málaga",
+        "postcode" :  "29660",
+        "businessUnit" : "SPAIN"
+    },
+    {
+        "addressLine1" : "Centre Commercial Centre Deux",
+        "addressLine2" : "1 -7 Rue des Docteurs Charcot",
+        "town" :  "Saint-Étienne",
+        "county" :  "Loire",
+        "postcode" :  "42100",
+        "businessUnit" : "FRANCE"
+    },
+    {
+        "addressLine1" : "Caserne de Bonne",
+        "addressLine2" : "48 Boulevard Gambetta",
+        "town" :  "Grenoble",
+        "county" :  "Isère",
+        "postcode" :  "38000",
+        "businessUnit" : "FRANCE"
+    }, 
+    {
+        "addressLine1" : "La Part-Dieu",
+        "addressLine2" : "17 Rue Dr Bouchut",
+        "town" :  "Lyon",
+        "county" :  "Rhône",
+        "postcode" :  "69003",
+        "businessUnit" : "FRANCE"
+    }, 
+    {
+        "addressLine1" : "La Galerie - Géant La Foux",
+        "addressLine2" : "120 Rond-Point de la Foux",
+        "town" :  "Gassin",
+        "county" :  "Var",
+        "postcode" :  "83580",
+        "businessUnit" : "FRANCE"
+    }
+]
